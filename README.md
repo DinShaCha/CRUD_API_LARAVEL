@@ -6,6 +6,8 @@ Requirements
 - Database
 - Postman
 
+Instructions
+
 - After downloading the project, please update the following in the .env file (located inside the crud_api folder) to match your database connection:
 
 DB_CONNECTION=mysql
